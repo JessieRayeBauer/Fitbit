@@ -1,6 +1,6 @@
 # Tutorial: How to acquire your data from Fitbit's API.
 
-### The goal of this project was for me to practice:
+### The goal of this project was to practice:
 
 1. downloading data from an API 
 2. working with new types of data formats (e.g., json)
