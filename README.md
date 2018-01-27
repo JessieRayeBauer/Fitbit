@@ -16,6 +16,6 @@
  4. Next steps
  
  
-First, create and initiate a [Fitbit API here](https://dev.fitbit.com/build/reference/). Then, aquire your data. I have provided templates in Python do so. 
+First, [register your app](https://dev.fitbit.com/apps/new) and set up an API. See this [helpful tutorial](http://pdwhomeautomation.blogspot.com/2015/03/using-fitbit-api-on-raspberry-pi-with.html). Then, aquire your data. I have provided templates in Python do so. 
 
 Have fun!
