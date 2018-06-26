@@ -1,4 +1,4 @@
-# Explore 
+# Explore FitBit Data
 
 ### The goal of this project was to practice:
 
